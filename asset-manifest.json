@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SaaS-Vendor-Dashboard/static/css/main.75f94617.chunk.css",
+    "main.js": "/SaaS-Vendor-Dashboard/static/js/main.6378bfd8.chunk.js",
+    "main.js.map": "/SaaS-Vendor-Dashboard/static/js/main.6378bfd8.chunk.js.map",
+    "runtime-main.js": "/SaaS-Vendor-Dashboard/static/js/runtime-main.325e7379.js",
+    "runtime-main.js.map": "/SaaS-Vendor-Dashboard/static/js/runtime-main.325e7379.js.map",
+    "static/js/2.61930bb8.chunk.js": "/SaaS-Vendor-Dashboard/static/js/2.61930bb8.chunk.js",
+    "static/js/2.61930bb8.chunk.js.map": "/SaaS-Vendor-Dashboard/static/js/2.61930bb8.chunk.js.map",
+    "static/js/3.b9231896.chunk.js": "/SaaS-Vendor-Dashboard/static/js/3.b9231896.chunk.js",
+    "static/js/3.b9231896.chunk.js.map": "/SaaS-Vendor-Dashboard/static/js/3.b9231896.chunk.js.map",
+    "index.html": "/SaaS-Vendor-Dashboard/index.html",
+    "static/css/main.75f94617.chunk.css.map": "/SaaS-Vendor-Dashboard/static/css/main.75f94617.chunk.css.map",
+    "static/js/2.61930bb8.chunk.js.LICENSE.txt": "/SaaS-Vendor-Dashboard/static/js/2.61930bb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.325e7379.js",
+    "static/js/2.61930bb8.chunk.js",
+    "static/css/main.75f94617.chunk.css",
+    "static/js/main.6378bfd8.chunk.js"
+  ]
+}
